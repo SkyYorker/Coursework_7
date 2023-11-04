@@ -6,8 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Ignore a folder named "env"
-env/
 
 # Distribution / packaging
 .Python
